@@ -9,9 +9,18 @@ Using Tenserflow library we are able to conduct scanning which help us to identi
 between lungs with covid infection and normal lungs with no covid infection.
 
 ## LIBRARIES:
-1) GET-X
-<img src="https://blog.kakaocdn.net/dn/tTJsy/btraPuKSP5Y/34aELwuQ5eWBta1trRneU1/img.png width="200" height="200""/>
-<br>
-3) Tenserflow
+1) GET-X(For State Management)
+
+
+![alt text](https://blog.kakaocdn.net/dn/tTJsy/btraPuKSP5Y/34aELwuQ5eWBta1trRneU1/img.png)
+
+
+2) Tenserflow(Used For Detection OF COVID Infection in Lungs)
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDDGYM-MeARU-WHA_etPPyemDA0AMcUBnOb1SIR7WfmrquaSn_aw__0697iVzRTpp4g&usqp=CAU)
+
+
+
+
 
 

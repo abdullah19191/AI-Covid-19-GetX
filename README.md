@@ -27,7 +27,28 @@ between lungs with covid infection and normal lungs with no covid infection.
 ### FEATURES:
 1. Covid Tracking
 
+- GLOBE:
+
+<img src="https://user-images.githubusercontent.com/71758955/183290281-2ac76eff-4d4a-4bb4-8c18-799177fb06fd.png" width="150" height="290"/>
+
+- COUNTRY:
+
+<img src="https://user-images.githubusercontent.com/71758955/183290286-c736a4c0-7b76-4c85-89d2-55ff72e5503b.png" width="150" height="290"/>
+
+
 2. Covid Detection
+
+- Adding Lungs X-Ray:
+
+<img src="https://user-images.githubusercontent.com/71758955/183290336-12e367af-8f04-4fee-b48e-29b46e5dad95.png" width="150" height="290"/>
+
+<img src="https://user-images.githubusercontent.com/71758955/183290299-2281a6b8-9e8c-4090-8b92-807a816798fc.png" width="150" height="290"/>
+
+
+- Showing Result Screen:
+
+<img src="https://user-images.githubusercontent.com/71758955/183290345-8a30cf8c-3891-40c4-8d87-3d9b2f62f7e1.png" width="150" height="290"/>
+
 
 
 
